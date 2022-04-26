@@ -19,8 +19,7 @@ along with this library; If not, see <http://www.gnu.org/licenses/>.
 
 """
 
-import setuptools
-from distutils.core import setup, Extension
+from setuptools import setup, Extension
 
 setup(name='pysctp',
       version='0.7.1',
